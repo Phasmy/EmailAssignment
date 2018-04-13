@@ -1,0 +1,6 @@
+n3ther@gmail.com,
+second@cs.yahoo.com Third@gmail.com
+incomplete@
+this@isAFakeEmail
+@yahoo.com
+n3ther@cs12.gmail.com This is not an email. n3ther@art.uh.edu
